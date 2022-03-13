@@ -15,3 +15,5 @@ Pembagian kerja :
 - Footer (Yashmine Noor Islami)
 - Setidaknya satu animasi (Muhammad Fariz Al-Pasha)
 - Desain responsif untuk smartphone dan tablet (Muhammad Fariz Al-Pasha)
+
+Webpage : https://mfarizalpasha.github.io/Kelompok45/
