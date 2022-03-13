@@ -85,3 +85,8 @@ li {
 .content-icon {
   position: relative;
 }
+.foto {
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+}
