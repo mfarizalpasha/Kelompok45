@@ -35,3 +35,53 @@ li {
   text-decoration: none;
   color: #fff;
 }
+.main-contents {
+  padding: 250px 100px;
+  background-image: url(https://www.mindinventory.com/blog/wp-content/uploads/2021/03/frontend-development-tools.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+.main-contents h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 15px;
+  margin-bottom: 10px;
+  font-family: 'Avenir Next';
+}
+.main-contents h2{
+  opacity: 0.7;
+  font-size: 35px;
+  letter-spacing: 15px;
+  margin-bottom: 10px;
+  font-family: 'Avenir Next';
+}
+
+.main-contents p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+  font-size: 20px;
+}
+.contents {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+.heading h2 {
+  font-weight: normal;
+}
+
+.content {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
