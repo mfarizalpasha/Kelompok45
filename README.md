@@ -6,4 +6,4 @@ Dengan anggota :
 - Muhammad Fariz Al-Pasha
 - Wahyu Septiadi Fajri
 - Tiara Syilfa
-- Yashmine Islami
+- Yashmine Noor Islami
