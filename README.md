@@ -7,3 +7,11 @@ Dengan anggota :
 - Wahyu Septiadi Fajri
 - Tiara Syilfa
 - Yashmine Noor Islami
+
+Pembagian kerja : 
+- Header (Wahyu Septiadi Fajri)
+- Bagian Main (Tiara Syilfa)
+- Bagian Body (Tiara Syilfa)
+- Footer (Yashmine Noor Islami)
+- Setidaknya satu animasi (Muhammad Fariz Al-Pasha)
+- Desain responsif untuk smartphone dan tablet (Muhammad Fariz Al-Pasha)
