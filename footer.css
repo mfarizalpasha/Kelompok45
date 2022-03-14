@@ -19,14 +19,9 @@ li {
     list-style: none;
 }
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: aliceblue;
-}
-
 footer {
     display:block;
-    padding: 2vw;
+    padding: 1vw;
     background-color: rgb(48, 42, 42, .8);
 }
 
@@ -133,6 +128,6 @@ footer {
     }
 
     footer {
-        padding: 2vw;
+        padding: 1vw;
     }
 }
