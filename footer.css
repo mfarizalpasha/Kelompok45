@@ -3,26 +3,23 @@
     padding: 0;
 }
 
-a {
+footer a {
     text-decoration: none;
     color: aliceblue;
     transition: all .5s;
 }
 
-a:hover {
+footer a:hover {
     padding-left: 5px;
     color: rgb(255, 255, 255);
     transition: all .5s;
 }
 
-li {
-    list-style: none;
-}
-
 footer {
     display:block;
-    padding: 1vw;
+    padding: 2vw;
     background-color: rgb(48, 42, 42, .8);
+    color: aliceblue;
 }
 
 .logo a {
@@ -128,6 +125,6 @@ footer {
     }
 
     footer {
-        padding: 1vw;
+        padding: 2vw;
     }
 }
