@@ -101,6 +101,7 @@ section {
 
 .gambarr{
     width: 50%;
+    animation: menghilang 5s ease 1s 2 alternate;
 }
 
 h2 {
@@ -145,6 +146,7 @@ a.tbl-pink:hover {
 
 .gambar-online{
     width: 50%;
+    animation: menghilang 5s ease 1s 2 alternate;
 }
 
 p {
@@ -386,5 +388,15 @@ h3 {
         display: block;
         width: 100%;
         text-align: center;
+    }
+}
+
+@keyframes menghilang{
+    0% {
+        opacity: 0;
+    }
+
+    100%{
+        opacity: 1;
     }
 }
